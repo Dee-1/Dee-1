@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dee-1
+- 👋 Hi, I’m @HisCode
 - 👀 I’m interested in ...Technology, growth, freedom from conventional working mode
 - 🌱 I’m currently learning ...react native
 - 💞️ I’m looking to collaborate on ...tech projects
